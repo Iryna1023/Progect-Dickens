@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  max-width: 1346px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  max-width: 1920px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+svg {
+  fill: #fff;
+}
+  

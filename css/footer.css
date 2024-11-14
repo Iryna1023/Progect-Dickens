@@ -1,0 +1,47 @@
+.footer__footer {
+  height: 112.23px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer__logo {
+  width: 484.5px;
+  height: 48.23px;
+  gap: 10px;
+  display: flex;
+  justify-content: start;
+}
+
+.footer__group {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  width: 275px;
+  height: 24px;
+  color: #003366;
+}
+
+.footer_link {
+  width: 484.5px;
+  height: 40px;
+  gap: 16px;
+  display: flex;
+  justify-content: end;
+}
+
+.footer_link a {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: center;
+  color: #343434;
+  transition: all 2s ease-out;
+}
+
+.footer_link a:hover {
+  color: #003366;
+}

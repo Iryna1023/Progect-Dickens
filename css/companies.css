@@ -1,0 +1,105 @@
+.companies {
+  height: 350px;
+  background-color: #003366;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.companies__companies {
+  display: flex;
+  align-items: center;
+  width: 1340px;
+}
+
+.companies__box {
+  width: 658px;
+  height: 184px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.companies__input {
+  width: 50%;
+}
+
+.companies__title {
+  height: 126px;
+  font-family: Poppins;
+  font-size: 42px;
+  font-weight: 500;
+  line-height: 63px;
+  color: #FBFBFB;
+  text-align: left;
+  width: 658px;
+}
+
+.companies__subtitle {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  color: #FBFBFB;
+  text-align: left;
+  margin-top: 4px;
+  width: 598px;
+  height: 54px;
+}
+
+.companies__input {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.companies__name {
+  width: 658px;
+  height: 64px;
+  padding: 12px 14px 12px 14px;
+  border-radius: 4px;
+  border: 1px;
+  background-color: #FBFBFB;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+}
+
+.companies__email {
+  width: 658px;
+  height: 64px;
+  padding: 12px 14px 12px 14px;
+  border-radius: 4px;
+  border: 1px;
+  background-color: #FBFBFB;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  margin-top: 24px;
+}
+
+.companies__btn {
+  width: 213px;
+  height: 58px;
+  padding: 14px 28px;
+  border-radius: 14px;
+  background-color: #FBFBFB;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 40px;
+  transition: all 1s ease-out;
+  border: none;
+}
+
+.companies__btn:hover {
+  background-color: #003366;
+  color: #FBFBFB;
+  border: solid 1px #FBFBFB;
+}

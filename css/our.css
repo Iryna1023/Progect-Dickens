@@ -1,0 +1,310 @@
+.our__level-1 {
+  margin-top: 20px;
+}
+
+.our {
+  height: 2043px;
+  margin-top: 50px;
+}
+
+.our__our {
+  width: 1340px;
+  height: 1871px;
+
+}
+
+.our__title-our {
+  height: 63px;
+}
+
+.our__title {
+  font-family: Poppins;
+  font-size: 42px;
+  font-weight: 500;
+  line-height: 63px;
+  color: #003366;
+
+}
+
+.our__level-1 {
+  height: 884px;
+  gap: 20px;
+  border-radius: 20px;
+  border: 2px solid #003366
+}
+
+.our__level {
+  width: 1260px;
+  margin: 0 auto;
+
+}
+
+.our__header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 40px 0 40px 0;
+}
+
+.our__header__box {
+  display: flex;
+  align-items: center;
+  width: 1132px;
+}
+
+.our__label {
+  width: 60px;
+  height: 60px;
+  border-radius: 12px;
+  background-color: #003366;
+  padding: 16px;
+  width: auto;
+}
+
+.our__name {
+
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  margin-left: 14px;
+
+}
+
+.our__label svg {
+  width: 28px;
+  height: 28px;
+}
+
+.our__item {
+  height: 47px;
+  margin-top: 30px;
+}
+
+.time__our {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.about__details {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  color: #343434;
+  margin-left: 10px;
+  text-transform: uppercase;
+  line-height: 30px;
+}
+
+.item__our-time {
+  width: 128px;
+  height: 47px;
+  padding: 10px 16px 10px 16px;
+  border-radius: 45px;
+  background-color: #EFF3F7;
+  display: flex;
+  align-items: center;
+}
+
+.item__our-online {
+  width: 116px;
+  height: 47px;
+  padding: 10px 16px 10px 16px;
+  border-radius: 45px;
+  background-color: #EFF3F7;
+  display: flex;
+  align-items: center;
+}
+
+.item__our-english {
+  width: 123px;
+  height: 47px;
+  padding: 10px 16px 10px 16px;
+  border-radius: 45px;
+  background-color: #EFF3F7;
+  display: flex;
+  align-items: center;
+}
+
+.item__our-hours {
+  width: 135px;
+  height: 47px;
+  padding: 10px 2px 10px 7px;
+  border-radius: 45px;
+  display: flex;
+  align-items: center;
+  background-color: #EFF3F7;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+
+
+}
+
+.item__our-hours img {
+  width: 24px;
+  height: 24px;
+}
+
+.item__our-modules {
+  width: 149px;
+  height: 47px;
+  padding: 10px 15px;
+  border-radius: 45px;
+  display: flex;
+  align-items: center;
+  background-color: #EFF3F7;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+}
+
+.item__our-online {
+  width: 116px;
+  height: 47px;
+  padding: 10px 16px 10px 16px;
+  border-radius: 45px;
+  background-color: #EFF3F7;
+  display: flex;
+  align-items: center;
+}
+
+.time img {
+  width: 19.5px;
+  height: 23.96px;
+
+
+}
+
+.our__hour {
+  margin-left: 10px;
+  width: 64px;
+  height: 27px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  color: #343434;
+  flex-grow: 1;
+
+
+
+}
+
+.our__models {
+  height: 519px;
+  margin-top: 40px;
+}
+
+.models__title {
+  height: 30px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  color: #003366;
+  margin-bottom: 18px;
+  text-transform: uppercase;
+}
+
+.models__level {
+  height: 124px;
+  margin-bottom: 20px;
+  line-height: 27px;
+}
+
+.level__title {
+  height: 27px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 8px;
+  color: #343434;
+
+
+}
+
+.level__box {
+  margin-top: 16px;
+}
+
+.level__text {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+}
+
+.text__level {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  color: #343434;
+
+}
+
+.models__price {
+  width: 209px;
+  height: 45px;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 45px;
+  color: #003366;
+  display: flex;
+  align-items: center;
+  margin-top: 24px;
+
+}
+
+.price__text {
+  width: 84px;
+  margin-right: 15px;
+}
+
+.separator {
+  width: 2px;
+  height: 45px;
+  background-color: #003366;
+
+}
+
+.price__num {
+  width: 93px;
+  margin-left: 15px;
+}
+
+.models__join {
+  display: flex;
+  align-items: center;
+  height: 58px;
+  gap: 10px;
+  margin-top: 40px;
+}
+
+.models__btn {
+  width: 216px;
+  height: 58px;
+  padding: 14px 30px 14px 30px;
+  border-radius: 14px;
+  background-color: #003366;
+  color: #FBFBFB;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  border: none;
+  cursor: pointer;
+  transition: all 1s ease-out;
+}
+
+.models__btn:hover {
+  background-color: #FBFBFB;
+  color: #003366;
+  border: solid 1px #003366;
+}

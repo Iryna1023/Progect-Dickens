@@ -1,0 +1,88 @@
+.welcome {
+  margin-top: 50px;
+}
+
+.welcome__welcome {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 50px;
+}
+
+.welcome__image {
+  max-width: 433px;
+  height: 519px;
+}
+
+.welcome__info {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+  width: 889px;
+  background-color: #003366;
+  margin-right: 24px;
+  border-radius: 20px;
+}
+
+.welcome__text {
+  text-align: center;
+  color: #FBFBFB;
+  border-radius: 8px;
+  width: 729px;
+  max-height: 178px;
+  margin-top: 100px;
+}
+
+.welcome__title {
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 57.6px;
+  text-align: left;
+}
+
+.welcome__subtitle {
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 57.6px;
+  text-align: left;
+}
+
+.welcome__explore {
+  max-height: 125px;
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.welcome__resource {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: #FBFBFB;
+  width: 609px;
+  height: 27px;
+}
+
+.welcome__btn {
+  width: 185px;
+  height: 58px;
+  padding: 14px 20px;
+  margin-top: 40px;
+  border-radius: 14px;
+  text-align: center;
+  background-color: #FBFBFB;
+  color: #003366;
+  border: none;
+  transition: all 1s ease-out;
+}
+
+.welcome__btn:hover {
+  background-color: #0056b3;
+  color: #FBFBFB;
+}
