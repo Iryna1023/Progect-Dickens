@@ -3,7 +3,7 @@
 }
 
 .our {
-  height: 2043px;
+  min-height: 2043px;
   margin-top: 50px;
 }
 
@@ -141,7 +141,11 @@
   font-weight: 500;
   line-height: 27px;
 
+}
 
+.item__our-hour img {
+  width: 24px;
+  height: 24px;
 }
 
 .item__our-hours img {
